@@ -1,0 +1,2 @@
+# Number-plate-text-recognition-using-OpenCV
+OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. In this task you will be using some of the libraries of open CV to detect the shapes of images, and to detect the text written on a number plate.
