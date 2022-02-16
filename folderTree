@@ -1,0 +1,19 @@
+.
+├── folderTree
+├── Task 1
+│   ├── img1.jpeg
+│   ├── img3.jpeg
+│   ├── output_img1.PNG
+│   ├── output_img3.PNG
+│   ├── Readme.md
+│   └── Shape_detection.py
+├── Task 2
+│   ├── car1.jpg
+│   ├── car2.jpg
+│   ├── car7.jpg
+│   ├── Readme.md
+│   └── task2.2.py
+├── Task_Document.pdf
+└── Task_Report_Documentation.pdf
+
+2 directories, 14 files
